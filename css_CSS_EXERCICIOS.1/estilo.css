@@ -1,0 +1,66 @@
+body{
+
+  background-image: url("./../imagens_EXERCICIOS.1/cabecalhos_back.png");    
+  background-repeat: repeat-y;
+  background-color: #FFF7D4;
+  width: auto;
+  margin: 0 670px 0 180px;
+
+}
+
+h1{
+
+  font-size: 50px;
+  margin: 24px 5px;
+  color: #8f6800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+
+h2{
+
+    font-size: 30px;
+    color: #8f6800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 8px 0;
+
+}
+
+h3{
+
+    font-size: 20px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 18px 0;
+    background-color: #D38D00;
+    padding: 10px;
+    
+
+}
+
+p{
+
+    text-indent: 30px;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 25px
+
+}
+
+p.LinhaPontilhadaEmbaixo{
+
+  margin: 0 0 40px 0;
+  border-bottom:5px dashed #D38D00 ;
+  text-indent: 30px;
+  padding: 15px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 25px
+  
+  
+  
+
+}
